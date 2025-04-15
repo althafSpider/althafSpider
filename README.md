@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @althafSpider
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning advanced backend techmologies...
+- 🌱 I’m currently learning advanced backend technologies...
 
 <!---
 althafSpider/althafSpider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
